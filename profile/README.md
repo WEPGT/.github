@@ -8,7 +8,6 @@ Roy brings 26+ years of experience supporting mission-critical enterprise and br
 
 - [AWS infrastructure with Terraform](https://github.com/WEPGT/tcbc-terraform-codex-aws) — A documented two-Availability-Zone VPC foundation with public and private subnets, routing, consistent tags, and a deployment record.
 - [Linux monitoring stack](https://github.com/WEPGT/linux-monitoring-stack) — Prometheus, Node Exporter, Alertmanager, and Grafana configuration with installation guidance and verification screenshots.
-- [Home lab architecture](https://github.com/WEPGT/WEP-Global-Tech-Home-Lab-Architecture) — Virtualization, domain services, networking, storage, and lab documentation.
 - [Roy’s online résumé](https://wepgt.github.io/elroyphillip-resume/) — Experience, technical strengths, and project links.
 
 ## Connect
